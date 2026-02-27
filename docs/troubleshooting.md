@@ -105,5 +105,4 @@ Voice feedback quality depends on your microphone and environment:
 
 - **Community:** Ask in [Discussions](https://github.com/Fredlumiere/clicksay-community/discussions)
 - **Bug reports:** Open an [Issue](https://github.com/Fredlumiere/clicksay-community/issues)
-- **Email:** support@clicksay.net
 - **Website chat:** [clicksay.net](https://clicksay.net)

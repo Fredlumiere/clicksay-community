@@ -67,5 +67,4 @@ Your Pro features will activate immediately.
 ## Questions?
 
 - Visit the [Discussions](https://github.com/Fredlumiere/clicksay-community/discussions) to ask a question
-- Email us at support@clicksay.net
 - Chat with us at [clicksay.net](https://clicksay.net)

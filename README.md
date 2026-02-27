@@ -38,7 +38,6 @@ What takes about a minute of typing takes about 8 seconds with ClickSay.
 - **[Discussions](https://github.com/Fredlumiere/clicksay-community/discussions)** - Ask questions, share tips, request features
 - **[Issues](https://github.com/Fredlumiere/clicksay-community/issues)** - Report bugs
 - **[Website chat](https://clicksay.net)** - Instant answers from our support bot
-- **Email** - support@clicksay.net
 
 ---
 

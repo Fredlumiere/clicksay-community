@@ -66,4 +66,4 @@ You can delete all your ClickSay data at any time:
 If you have questions about privacy or data handling:
 
 - Ask in [Discussions](https://github.com/Fredlumiere/clicksay-community/discussions)
-- Email us at support@clicksay.net
+- Chat with us at [clicksay.net](https://clicksay.net)
