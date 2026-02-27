@@ -110,7 +110,7 @@ You can purge your history at any time using the controls in the side panel.
 
 ## Copy to Clipboard
 
-When you're done capturing and speaking, press **Enter** or click the **copy button** in the side panel. A structured, AI-ready prompt is copied to your clipboard - ready to paste into Claude, ChatGPT, Cursor, or any other AI tool.
+When you're done capturing and speaking, press **Enter** or click the **copy button** in the side panel. A structured, AI-ready prompt is copied to your clipboard - ready to paste into any AI tool.
 
 ---
 

@@ -14,7 +14,7 @@ ClickSay turns UI feedback into structured, AI-ready prompts in seconds.
 
 1. **Click** any element on a web page
 2. **Speak** your feedback naturally
-3. **Paste** the structured prompt into Claude, ChatGPT, Cursor, or any AI tool
+3. **Paste** the structured prompt into any AI tool
 
 What takes about a minute of typing takes about 8 seconds with ClickSay.
 

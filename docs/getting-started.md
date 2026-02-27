@@ -62,7 +62,7 @@ Right-click the ClickSay icon in your toolbar and select **Options** to access s
 5. Your microphone activates automatically - **speak** your feedback
 6. Press **Enter** or click the mic icon to stop recording
 7. Press **Enter** or click copy to copy the structured prompt to your clipboard
-8. **Paste** into your favorite AI tool (Claude, ChatGPT, Cursor, etc.)
+8. **Paste** into your favorite AI tool
 
 That's it - you're ready to go!
 
